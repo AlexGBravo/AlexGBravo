@@ -21,7 +21,16 @@
 
 ![.Modo claro](./assets/inventory.png)
 
+
+
+Aplicación nativa (Android y Windows)
+
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LINServices/LIN)
+
+Aplicación web
+
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LINServices/LIN.Inventory.Web)
+
 
 ### 🌟 LIN Allo
 
@@ -59,7 +68,8 @@ Aplicación web
 
 ### 🌟 LIN Vault
 
-<img alt="heyform logo" height="400" src="./assets/vault.jpg">
+![.Modo claro](./assets/vault.png)
+
 
 
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LINServices/LIN.Vault)
