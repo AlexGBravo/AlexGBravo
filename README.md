@@ -49,7 +49,11 @@ Aplicación web
 
 ![.Modo claro](./assets/notes.png)
 
+Aplicación nativa (Android y Windows)
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LINServices/LIN.Notes)
+
+Aplicación web
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LINServices/LIN.Notes.Web)
 
 
 ### 🌟 LIN Calendar
@@ -69,8 +73,6 @@ Aplicación web
 ### 🌟 LIN Vault
 
 ![.Modo claro](./assets/vault.png)
-
-
 
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LINServices/LIN.Vault)
 
