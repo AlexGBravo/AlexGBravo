@@ -6,6 +6,7 @@
 * 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
 * 📫 Puedes contactarme a través de mi correo electrónico.
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexgbravo&locale=es" alt="alexgbravo" /></p>
 
 ## Tecnologías
 * 🖥️ .NET Framework/.NET Core
@@ -14,6 +15,7 @@
 * 🛠️ SQL Server/Entity Framework
 * 🌐 Razor - Blazor
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexgbravo&show_icons=true&locale=es&layout=compact" alt="alexgbravo" /></p>
 
 ## Proyectos destacados
 
@@ -95,4 +97,3 @@ Revisa los proyectos de código abierto y libre.
 <img alt="heyform logo" height="40" src="./assets/openIcons.png">
 
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LIN-Experimental)
-
