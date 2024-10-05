@@ -15,7 +15,8 @@
 * 🛠️ SQL Server/Entity Framework
 * 🌐 Razor - Blazor
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexgbravo&show_icons=true&locale=es&layout=compact" alt="alexgbravo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexgbravo&show_icons=true&locale=es&layout=compact" alt="alexgbravo" /></p>
+
 
 ## Proyectos destacados
 
